@@ -1,0 +1,3 @@
+[submodule "AIAgent"]
+	path = AIAgent
+	url = https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit.git
